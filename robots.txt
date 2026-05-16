@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lakhi111.github.io/reference-gld17a/sitemap.xml
